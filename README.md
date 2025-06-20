@@ -58,6 +58,18 @@ All charts and tables are included at the end of the notebook in a dashboard-sty
 - Structuring and documenting a project for portfolio use
 
 
+## 📊 Sample Visuals
+
+### 🔹 Top Products by Revenue
+<img src="top_products.png" width="600"/>
+
+### 🔹 Monthly Revenue Trend
+<img src="monthly_revenue.png" width="600"/>
+
+### 🔹 Top Countries by Revenue
+<img src="top_countries.png" width="600"/>
+
+
 ## 📌 Project Type
 
 | 📊 Exploratory Data Analysis | 🔍 SQL & Python | 📈 Visual Reporting
